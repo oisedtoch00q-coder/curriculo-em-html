@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>curriculo</title>
+</head>
+<body>
+    <h1>📄 CURRÍCULO – MARIA JULIA TEIXEIRA POSTIGO</h1>
+<br>
+<br>
+<H2>👤 Informações Pessoais</H2>
+
+<li>Nome: Maria Julia Teixeira Postigo
+
+<li>Data de Nascimento: 07/11/2006</li>
+
+<li>Telefone: +55 14 99831-8581</li>
+
+<li>Cidade: Lins - SP</li>
+
+<li><a href="https://github.com/oisedtoch00q-coder">GitHub</a></li>
+<br>
+<H2>🎯 Objetivo Profissional</H2>
+<br>
+<p>Atuar na área de Tecnologia da Informação, com foco em desenvolvimento front-end, contribuindo com minhas habilidades técnicas, criatividade, dedicação e facilidade de aprendizado.</p>
+<br>
+<H2>🧠 Resumo Profissional</H2>
+
+<p>Estudante de Desenvolvimento de Sistemas para Internet, com grande interesse em tecnologia, design e edição.
+
+Facilidade de aprendizado, boa comunicação e dedicação em projetos práticos.
+
+Experiência em edição de vídeos e conhecimentos básicos em HTML e CSS.</p>
+<br>
+<H2>📚 Formação Acadêmica</H2>
+<br>
+<li>Curso: Desenvolvimento de Sistemas para Internet</li>
+
+<li>Instituição: FATEC Lins – Professor Antônio Seabra</li>
+
+<li>Período: Início em março/2023 – Previsão de término em dezembro/2027</li>
+
+<li>Status: Cursando</li>
+<br>
+<H2>📜 Cursos Complementares</H2>
+<br>
+<li>Capacitação Multidisciplinar – Hotel Blue Tree Park Lins - SP</li>
+<br>
+<H2>🛠️ Habilidades</H2>
+<br>
+<li>Pacote Office (Word, Excel, PowerPoint)
+
+<li>HTML e CSS (básico)
+
+<li>Edição de vídeos
+
+<li>Uso e configuração intermediária de sistemas operacionais Windows 10 e 11
+
+<li>Aprendizado rápido
+
+<li>Boa ouvinte
+
+<li>Facilidade em trabalhar em equipe</li>
+
+<H2>🌐 Projetos Pessoais / Portfólio</H2>
+<br>
+<li>GitHub: https://github.com/oisedtoch00q-coder</li>
+<br>
+<li>Edição de Vídeos (YouTube):</li>
+
+<li>Projeto 1: <a href="https://youtu.be/Gc6wkrw5XmQ?si=D-nn1MW2Ltr8-1NY">🎬</a></li>
+
+<li>Projeto 2: <a href="https://youtu.be/Gc6wkrw5XmQ?si=FbCs_fmbRAGC4PTj">🎬</a></li>
+
+
+
+
+<style>
+    body{
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: aqua;
+    }
+
+    h1{
+        color: rgb(0, 255, 98);
+    }
+
+    h2{
+        color: rgb(0, 255, 85);
+    }
+
+    li,p{
+        color: rgb(0, 255, 85);
+    }
+    
+    a {
+    color: rgb(0, 255, 85); 
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+</style>
+</body>
+</html>
